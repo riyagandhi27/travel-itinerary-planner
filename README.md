@@ -4,6 +4,8 @@ An AI-powered travel planning web application that generates personalized, day-b
 
 Built with **React, FastAPI, Groq, and Supabase**, the application simplifies trip planning by organizing attractions, dining, accommodation, and transportation into a structured itinerary.
 
+**Live Demo:** https://travel-itinerary-planner-psi.vercel.app/
+
 ## Features
 
 - **AI-Powered Itinerary Generation:** Generate personalized travel plans using Groq-hosted LLMs.
